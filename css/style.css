@@ -2236,7 +2236,7 @@ button.banner-button {
     right: 0;
     z-index: 0;
     width: 50%;
-    background: linear-gradient(to right, rgba(83, 100, 141, 0) 0%, rgb(22 12 23) 44%);
+    /* background: linear-gradient(to right, rgba(83, 100, 141, 0) 0%, rgb(22 12 23) 70%); */
 }
 
 ul.iq-song-slide li p {
